@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#1976D2"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        app:cardBackgroundColor="#FFFFFF"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="157dp"
+            android:background="#EBECEB"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageview"
+                android:layout_width="218dp"
+                android:layout_height="157dp"
+                android:layout_margin="5dp"
+                android:contentDescription="@string/todo"
+
+                android:src="@drawable/cazaprin" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tNomParr"
+                    android:layout_width="150dp"
+                    android:layout_height="35dp"
+                    android:layout_margin="10dp"
+                    android:text="@string/parroquias"
+                    android:textColor="#000"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tCoorPar"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="@string/coordenadas" />
+
+                <Button
+                    android:id="@+id/btnIrAZapotillo"
+                    android:layout_width="150dp"
+
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:focusableInTouchMode="true"
+                    android:onClick="IrAZapotillo"
+                    android:text="Siguientes"
+                    tools:layout_editor_absoluteX="108dp"
+                    tools:layout_editor_absoluteY="54dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
+
+</LinearLayout>

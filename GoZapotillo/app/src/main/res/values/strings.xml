@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GoZapotillo</string>
+
+
+    <string name="facebook_app_id">627077628064073</string>
+    <string name="fb_login_protocol_scheme">fb627077628064073</string>
+    <string name="acceder_con_facebook" translatable="false">Acceder con Facebook</string>
+    <string name="welcome" translatable="false">Bienvenido</string>
+    <string name="cancel_login">Se canceló la operación</string>
+    <string name="error_login">Problemas de Connexion</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="logop">LogoPrincipal</string>
+    <string name="GoZ">TODO</string>
+    <string name="fondo">fondo</string>
+
+
+    <string name="coordenadas">Coordenadas</string>
+    <string name="parroquias">Parroquias</string>
+
+    <string name="todo">TODO</string>
+    <string name="off">off</string>
+    <string name="on">on</string>
+    <string name="visitar">VISITAR</string>
+
+</resources>

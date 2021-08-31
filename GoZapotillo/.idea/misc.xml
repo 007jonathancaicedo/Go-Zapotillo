@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GoZapotillo - copia/GoZapotillo/app/src/main/res/layout/activiti_galeria_zap.xml" value="0.25416666666666665" />
+        <entry key="..\:/GoZapotillo - copia/GoZapotillo/app/src/main/res/layout/activity_imagenes_zap.xml" value="0.25416666666666665" />
+        <entry key="..\:/GoZapotillo - copia/GoZapotillo/app/src/main/res/layout/activity_login_facebook.xml" value="0.25416666666666665" />
+        <entry key="..\:/GoZapotillo - copia/GoZapotillo/app/src/main/res/layout/activity_main_slidergozapotillo.xml" value="0.25416666666666665" />
+        <entry key="..\:/GoZapotillo - copia/GoZapotillo/app/src/main/res/layout/activity_main_zapotillo.xml" value="0.25416666666666665" />
+        <entry key="..\:/GoZapotillo - copia/GoZapotillo/app/src/main/res/layout/activity_principal_gozapotillo.xml" value="0.4" />
+        <entry key="..\:/GoZapotillo - copia/GoZapotillo/app/src/main/res/layout/parroquias_lista.xml" value="0.25416666666666665" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/drawable/botonredondo.xml" value="0.2703125" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activiti_galeria_zap.xml" value="0.1" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_descubre_limones.xml" value="0.1" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_descubre_zapotillo.xml" value="0.1" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_imagenes_zap.xml" value="0.2427536231884058" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_login_facebook.xml" value="0.3958333333333333" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_main_slidergozapotillo.xml" value="0.16" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_main_zapotillo.xml" value="0.1" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_menu.xml" value="0.12158054711246201" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/activity_principal_gozapotillo.xml" value="0.4" />
+        <entry key="..\:/GoZapotillo/GoZapotillo/app/src/main/res/layout/parroquias_lista.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
